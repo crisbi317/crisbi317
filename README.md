@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub! / ¡Bienvenidos a mi GitHub!
 
-<!--
-**crisbi317/crisbi317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me / Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🇬🇧 English
+
+I'm **Cristina Bisp**, a Higher Technician in Systems Analysis and currently studying to become a Full Stack Developer.  
+I work as a technical high school teacher and enjoy spending time with my family and nature.  
+I love solving logical problems, learning new technologies, and sharing knowledge.  
+
+### 🇪🇸 Español
+
+Soy **Cristina Bisp**, Técnica Superior en Análisis de Sistemas y actualmente estudiando para convertirme en desarrolladora Full Stack.  
+Trabajo como profesora en un colegio técnico y disfruto pasar tiempo con mi familia y en la naturaleza.  
+Me encanta resolver problemas lógicos, aprender nuevas tecnologías y compartir conocimientos.
+
+---
+
+## 🌐 Languages / Idiomas
+
+- Spanish (native / nativo)  
+- English (fluent / fluido)  
+- Danish (intermediate / intermedio)  
+
+---
+
+## ✔️ Currently Learning / Actualmente aprendiendo
+
+- React  
+- Node.js  
+- MongoDB  
+
+---
+
+## 🔭 Currently Working On / Actualmente trabajando en
+
+- Development of a **Student Management System**  
+- Creating **websites for different types of businesses**
+
+---
+
+## 🎯 Goals for 2026 / Metas para 2026
+
+- Improve my skills in JavaScript and PHP  
+- Learn basics of DevOps  
+- Become a skilled Full Stack Developer  
+- Grow personally and professionally
+
+---
+
+## ⚡ Achievements / Logros relevantes
+
+- Co-founded a web design company with a friend  
+- Teach web design at a technical high school  
+- Worked independently testing and repairing computers
+
+---
+
+## 📫 Contact Me / Contáctame
+
+- LinkedIn: [[your-linkedin]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/cristina-bisp-abb96a97?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjZJL4G%2FrSXSW4Dzi7PphYg%3D%3D))  ]
+- Email: cristinanoemi@hotmail.com  
+- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+> -->

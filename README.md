@@ -60,7 +60,7 @@ Me encanta resolver problemas lógicos, aprender nuevas tecnologías y compartir
 
 ## 📫 Contact Me / Contáctame
 
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/cristina-bisp-abb96a97?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjZJL4G%2FrSXSW4Dzi7PphYg%3D%3D](https://www.linkedin.com/in/cristina-bisp-abb96a97?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjZJL4G%2FrSXSW4Dzi7PphYg%3D%3D)
+- LinkedIn: https://www.linkedin.com/in/cristina-bisp-abb96a97
 - Email: cristinanoemi@hotmail.com  
 - Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
